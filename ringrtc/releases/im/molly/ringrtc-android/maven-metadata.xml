@@ -3,13 +3,14 @@
   <groupId>im.molly</groupId>
   <artifactId>ringrtc-android</artifactId>
   <versioning>
-    <release>2.10.1-1</release>
+    <release>2.10.6-1</release>
     <versions>
       <version>2.9.2-1</version>
       <version>2.9.4-1</version>
       <version>2.9.6-1</version>
       <version>2.10.1-1</version>
+      <version>2.10.6-1</version>
     </versions>
-    <lastUpdated>20210609101325</lastUpdated>
+    <lastUpdated>20210714191439</lastUpdated>
   </versioning>
 </metadata>
